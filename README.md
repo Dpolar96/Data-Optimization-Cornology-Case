@@ -72,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-This is an individual project in which through R, tweets were extracted and then underwent an NLP analysis, which included a Bigram Analysis, Sentiment Analysis, and TF-IDF. The topic choosen for this project was videogames more specifically MMORPG, the games choosen being World of Warcraft, Destiny 2, and Final Fantasy XIV, with the aim of comparing the 3 of them to determine which is the most popular as well discover any user insights.
+This is a group project in which through Jupyter Notebook and Excel it was analyzed the data from the case to determine an optimal route which would either generate the lowest loss or highest profits.
 
 ### Built With
 
@@ -90,8 +90,13 @@ Please check on the list of prerequisistes to check on the libraries needed to r
 
 ### Prerequisites
 
-In order to run the code code from this project the following libraries are needed.
+In order to run the code from this project the following libraries or addons are needed.
+
+Jupyter Notebook
 * pulp
+
+Microsoft Excel
+* Solver
 
 ### Installation
 
