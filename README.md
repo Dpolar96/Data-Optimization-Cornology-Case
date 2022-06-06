@@ -1,4 +1,4 @@
-# Text-Analytics-Project-with-R
+# Data-Optimization-Cornology-Case
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R">
+  <a href="https://github.com/Dpolar96/Data-Optimization-Cornology-Case">
   </a>
 
 <h3 align="center">Twitter Text Analytics Project with R</h3>
@@ -34,14 +34,14 @@
   <p align="center">
     Text Analytics in which through the use of the Twitter API, tweets were extracted and analyzed through R
     <br />
-    <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Dpolar96/Data-Optimization-Cornology-Case"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R">View Demo</a>
+    <a href="https://github.com/Dpolar96/Data-Optimization-Cornology-Case">View Demo</a>
     ·
-    <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R/issues">Report Bug</a>
+    <a href="https://github.com/Dpolar96/Data-Optimization-Cornology-Case/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R/issues">Request Feature</a>
+    <a href="https://github.com/Dpolar96/Data-Optimization-Cornology-Case/issues">Request Feature</a>
   </p>
 </div>
 
@@ -65,6 +65,7 @@
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -76,7 +77,7 @@ This is an individual project in which through R, tweets were extracted and then
 
 ### Built With
 
-* [RStudio IDE](https://www.rstudio.com/products/rstudio/download/)
+* [Jupyter Notebook](https://docs.jupyter.org/en/latest/install.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -90,32 +91,13 @@ Please check on the list of prerequisistes to check on the libraries needed to r
 ### Prerequisites
 
 In order to run the code code from this project the following libraries are needed.
-* rtweet
-* ggplot2
-* dplyr
-* tidytext
-* igraph
-* ggraph
-* tidyverse
-* httr
-* tidyr
-* stringr
-
+* pulp
 
 ### Installation
 
-In case these packages are not installed, please run the following lines of code.
+In case these packages are not installed, please run the following lines of code on the terminal section of the jupyter notebook before running the code.
   ```sh
-  install.packages("rtweet")
-  install.packages("ggplot2")
-  install.packages("dplyr")
-  install.packages("tidytext")
-  install.packages("igraph")
-  install.packages("ggraph")
-  install.packages("tidyverse")
-  install.packages("httr")
-  install.packages("tidyr")
-  install.packages("stringr")
+  !pip install pulp
   ```
 
 
@@ -124,7 +106,19 @@ In case these packages are not installed, please run the following lines of code
 
 Diego Polar - dpolar76@gmail.com
 
-Project Link: [https://github.com/Dpolar96/Text-Analytics-project-with-R](https://github.com/Dpolar96/Text-Analytics-project-with-R)
+Project Link: [https://github.com/Dpolar96/Data-Optimization-Cornology-Case](https://github.com/Dpolar96/Data-Optimization-Cornology-Case)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+I thank and appreciate the help of my group members during the ellaboration of this project:
+* [Diana Aycachi](https://www.linkedin.com/in/diana-aycachi-78882480/)
+* [Allesandro Casella](https://www.linkedin.com/in/alessandro-casella-97953b197/)
+* [Kevin Farjallah](https://www.linkedin.com/in/kevin-farjallah/)
+* [Vivian Soo](https://www.linkedin.com/in/vivian-soo-8446641b7/)
+* [Madhuri Thackeray](https://www.linkedin.com/in/madhuri-thackeray-05168b14a/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -133,8 +127,8 @@ Project Link: [https://github.com/Dpolar96/Text-Analytics-project-with-R](https:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/Dpolar96/Text-Analytics-project-with-R.svg?style=for-the-badge
-[issues-url]: https://github.com/Dpolar96/Text-Analytics-project-with-R/issues
+[issues-shield]: https://img.shields.io/github/issues/Dpolar96/Data-Optimization-Cornology-Case.svg?style=for-the-badge
+[issues-url]: https://github.com/Dpolar96/Data-Optimization-Cornology-Case/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/diego-polar-velasquez-3bbbb9154/
 [product-screenshot]: images/screenshot.png
