@@ -29,10 +29,10 @@
   <a href="https://github.com/Dpolar96/Data-Optimization-Cornology-Case">
   </a>
 
-<h3 align="center">Twitter Text Analytics Project with R</h3>
+<h3 align="center">Data Optimization - Cornology Case</h3>
 
   <p align="center">
-    Text Analytics in which through the use of the Twitter API, tweets were extracted and analyzed through R
+    Data optimization group project in which through Python and Excel was determined an optimal route for this case
     <br />
     <a href="https://github.com/Dpolar96/Data-Optimization-Cornology-Case"><strong>Explore the docs »</strong></a>
     <br />
