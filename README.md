@@ -37,7 +37,6 @@
     <a href="https://github.com/Dpolar96/Data-Optimization-Cornology-Case"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Dpolar96/Data-Optimization-Cornology-Case">View Demo</a>
     ·
     <a href="https://github.com/Dpolar96/Data-Optimization-Cornology-Case/issues">Report Bug</a>
     ·
@@ -78,6 +77,7 @@ This is an individual project in which through R, tweets were extracted and then
 ### Built With
 
 * [Jupyter Notebook](https://docs.jupyter.org/en/latest/install.html)
+* Microsoft Excel
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -114,11 +114,9 @@ Project Link: [https://github.com/Dpolar96/Data-Optimization-Cornology-Case](htt
 ## Acknowledgments
 
 I thank and appreciate the help of my group members during the ellaboration of this project:
-* [Diana Aycachi](https://www.linkedin.com/in/diana-aycachi-78882480/)
-* [Allesandro Casella](https://www.linkedin.com/in/alessandro-casella-97953b197/)
-* [Kevin Farjallah](https://www.linkedin.com/in/kevin-farjallah/)
-* [Vivian Soo](https://www.linkedin.com/in/vivian-soo-8446641b7/)
-* [Madhuri Thackeray](https://www.linkedin.com/in/madhuri-thackeray-05168b14a/)
+* [Alamim Ferreira](https://www.linkedin.com/in/alamimferreira/)
+* [Alexandra Aedo](https://www.linkedin.com/in/alexandraaedo/)
+* [Gianluca Scibilia](https://www.linkedin.com/in/gianluca-scibilia-032a0b180/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
